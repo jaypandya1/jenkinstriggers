@@ -1,1 +1,1 @@
-# jenkinstriggers
+# jenkins-triggers
